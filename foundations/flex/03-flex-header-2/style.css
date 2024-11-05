@@ -45,4 +45,20 @@ a {
 
 ul {
   list-style-type: none;
+  display: flex;
+  gap: 8px;
+  background-color: red;
+  
+}
+
+.flex-container{
+  display: flex;
+  background-color: green;
+  
+}
+
+.flex-container2{
+  display: flex;
+  background-color: yellow;
+  
 }
